@@ -1,0 +1,20 @@
+# 4. Stakeholder Analysis
+
+Stakeholder analysis involves identifying individuals or groups who have an interest in or are affected by the Alertify Emergency Reporting System.
+These stakeholders are categorized as primary and secondary based on their level of direct involvement with the system.
+
+## Primary Stakeholders:
+
+• Citizens (End Users): Individuals who report or view emergency incidents. They use the system to mark locations on the map, upload images, provide descriptions, and stay informed about nearby emergencies. Their main interest is quick reporting, accuracy, and ease of use.
+
+• Emergency Responders: Police, ambulance services, disaster response teams, and volunteers who monitor the platform to identify incidents and respond promptly. Their interest lies in receiving real-time, verified, and location-accurate information.
+
+• Local Authorities: Municipal and government officials responsible for public safety and infrastructure. They use the system to track emergencies, plan responses, and manage resources effectively.
+
+## Secondary Stakeholders:
+
+• Government & Disaster Management Agencies: Benefit from improved situational awareness, data-driven decision-making, and reduced response times during large-scale emergencies.
+
+• IT & System Administrators: Responsible for maintaining system availability, managing servers, securing user data, and ensuring smooth integration of maps and media services.
+
+• General Public & Community Organizations: Benefit indirectly from increased safety, transparency, and timely dissemination of emergency information in their locality. 
