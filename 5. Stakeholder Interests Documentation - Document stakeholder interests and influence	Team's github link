@@ -1,0 +1,25 @@
+# 5. Stakeholder Interests Documentation
+
+Stakeholder interests documentation identifies the expectations, needs, and level of influence of each stakeholder involved in the Alertify Emergency Reporting System.
+
+## Stakeholder Interests and Influence
+
+### Citizens (End Users)
+- **Interests:** Quick and easy emergency reporting, accurate location detection, privacy of personal data, and timely visibility of nearby incidents.
+- **Influence:** Medium – User participation and feedback directly affect system adoption and overall effectiveness.
+
+### Emergency Responders
+- **Interests:** Real-time alerts, verified information with images, precise geolocation, and clear incident details for faster response.
+- **Influence:** High – Primary operational users who rely on the system for emergency response.
+
+### Local Authorities
+- **Interests:** Efficient incident monitoring, improved public safety management, and reliable data for planning and decision-making.
+- **Influence:** High – Responsible for policy decisions and official system usage.
+
+### IT & System Administrators
+- **Interests:** System availability, data security, reliable map services, and smooth media upload performance.
+- **Influence:** Medium – Ensure system stability, maintenance, and technical compliance.
+
+### Government & Disaster Management Agencies
+- **Interests:** Large-scale emergency coordination, data-driven insights, and compliance with public safety regulations.
+- **Influence:** High – Define regulations, standards, and frameworks the system must adhere to.
